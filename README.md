@@ -1,5 +1,9 @@
 
 # ChatGPT Prompt Frameworks
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-Frameworks-green.svg)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-yellow.svg)
+![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-orange.svg)
 
 This repository provides a collection of prompt frameworks designed to enhance the effectiveness of ChatGPT in various tasks. These frameworks help structure prompts to ensure clear, comprehensive, and relevant responses from the AI.
 
